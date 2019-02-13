@@ -6,6 +6,7 @@ public class PrintName {
 
 		System.out.println("Hello There!");
 		
+		System.out.println("Checking");
 	}
 
 }
